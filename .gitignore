@@ -1,3 +1,18 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+*.iml
+
+# IntelliJ
+/out/
+.idea/
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+# vim
+*.swp
+
 *.class
 
 # Mobile Tools for Java (J2ME)
